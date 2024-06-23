@@ -16,17 +16,21 @@ Requirements:
 
 Installation:
 1. clone the repository:
-  git clone https://github.com/mohammedshebinp/Image_Classification_Project.git ,
+  git clone https://github.com/mohammedshebinp/Image_Classification_Project.git
+
+2.  navigate to project diretory:
   cd Image_Classification_Project
 
-3.  Install dependencies:
+3.  install dependencies:
   pip install -r requirements.txt
 
 4.  To train and evaluate the program:
   run python main.py
 
 5.  To test the program:
-  run python testmodel.py 
+  run python testmodel.py
+
+*  Trained model is saved in 
 
 Model Architecture:
 The model is built using TensorFlow and Keras and consists of the following layers:
