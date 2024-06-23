@@ -2,15 +2,25 @@ Image_Classification_Project
 
 Image classification model development
 
-Project Description
+Project Description:
 This project involves building a Convolutional Neural Network (CNN) to classify images into six categories: buildings, forest, glacier, mountain, sea, and street.
 
-Dataset
+Dataset:
 * Train set: 14000 images
 * Validation set: 7000 images
 * Test set: 3000 images
 
-Model Architecture
+Requirements:
+* Python 3.x
+* Git
+
+Installation
+1. clone the repository
+git clone https://github.com/mohammedshebinp/Image_Classifiction.git
+cd Image_Classifiction
+2.  
+
+Model Architecture:
 The model is built using TensorFlow and Keras and consists of the following layers:
 * 4 Convolutional Layers
 * 4 MaxPooling Layers
