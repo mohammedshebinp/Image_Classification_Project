@@ -16,8 +16,8 @@ Requirements:
 
 Installation:
 1. clone the repository:
-  git clone https://github.com/mohammedshebinp/Image_Classifiction.git ,
-  cd Image_Classifiction
+  git clone https://github.com/mohammedshebinp/Image_Classification_Project.git ,
+  cd Image_Classification_Project
 
 3.  Install dependencies:
   pip install -r requirements.txt
