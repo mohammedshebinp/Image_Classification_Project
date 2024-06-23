@@ -14,11 +14,19 @@ Requirements:
 * Python 3.x
 * Git
 
-Installation
-1. clone the repository
+Installation:
+1. clone the repository:
 git clone https://github.com/mohammedshebinp/Image_Classifiction.git
 cd Image_Classifiction
-2.  
+
+3.  Install dependencies:
+pip install -r requirements.txt
+
+4.  To train and evaluate the program:
+run python main.py
+
+5.  To test the program:
+run python testmodel.py 
 
 Model Architecture:
 The model is built using TensorFlow and Keras and consists of the following layers:
