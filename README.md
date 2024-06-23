@@ -30,7 +30,7 @@ Installation:
 5.  To test the program:
   run python testmodel.py
 
-*  Trained model is saved in 
+*  Trained model is saved as models/model.h5 
 
 Model Architecture:
 The model is built using TensorFlow and Keras and consists of the following layers:
